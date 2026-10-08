@@ -32,7 +32,7 @@
              launcher recognizes this as a VR app. If your Qiyu firmware uses a
              different category, adjust the value below. -->
         <meta-data
-            android:name="com.htc.vr.application.mode"
+            android:name="com.samsung.android.vr.application.mode"
             android:value="vr_only" />
 
         <activity
